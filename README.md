@@ -2,7 +2,8 @@
 
 Partages du Meetup WP Marseille
 
-* [Mars 2023](2023-MARS/README.md)
+* [Mars 2023](2023-MARS/)
+* [Avril 2023](2023-AVRIL/)
 
 
 ## Commentaires / Suggestions
