@@ -98,7 +98,7 @@ Welcome to the Marseille WordPress Meetup
 * MARS
 * AVRIL
 * MAI
-* JUIN
+* JUIN 13 / mardi 21H / sécurité
 * JUILLET
 * AOUT
 * SEPTEMBRE
