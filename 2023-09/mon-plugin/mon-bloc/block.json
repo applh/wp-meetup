@@ -1,0 +1,8 @@
+{
+    "apiVersion": 3,
+    "name": "meetup/mon-bloc",
+    "title": "MON BLOC",
+    "category": "text",
+    "icon": "smiley",
+    "editorScript": "file:./block.js"
+}
