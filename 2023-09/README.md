@@ -52,7 +52,7 @@ add_shortcode( 'mon_shortcode', 'cb_mon_shortcode' );
 
 ## Améliorer le code de votre extension
 
-* Pour les shortcodes, le code auparavant fonctionne, mais il vaut moeux retarder l'ajout de fonctionnalités au moment du `hook` `init`
+* Pour les shortcodes, le code auparavant fonctionne, mais il vaut mieux retarder l'ajout de fonctionnalités au moment du `hook` `init`
 
 ```php
 <?php

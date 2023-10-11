@@ -9,6 +9,7 @@ Partages du Meetup WP Marseille
 * [Juillet 2023](2023-07/)
 * Vacances en Août
 * [Septembre 2023](2023-09/)
+* [Octobre 2023](2023-10/)
 
 
 
