@@ -1,5 +1,10 @@
 # Theme Divi
 
+## La keynote de Lycia
+
+Pour télécharger le fichier PDF:
+[keynote-meetup-divi-nov-2023.pdf](keynote-meetup-divi-nov-2023.pdf)
+
 ## Theme payant de Elegant Themes
 
 https://www.elegantthemes.com/gallery/divi/
