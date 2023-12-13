@@ -2,6 +2,8 @@
 
 Partages du Meetup WP Marseille
 
+## 2023
+
 * [Mars 2023](2023-03/)
 * [Avril 2023](2023-04/)
 * [Mai 2023](2023-05/)
@@ -11,6 +13,9 @@ Partages du Meetup WP Marseille
 * [Septembre 2023](2023-09/)
 * [Octobre 2023](2023-10/)
 * [Novembre 2023](2023-11/)
+* [Décembre 2023](2023-12/)
+
+Bonnes fêtes de fin d'année 2023 !
 
 
 ## Commentaires / Suggestions
